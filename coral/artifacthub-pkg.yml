@@ -1,0 +1,28 @@
+version: 0.1.0
+name: coral
+displayName: Coral
+createdAt: "2026-10-25T06:15:50Z"
+description: Zoorik Coral's CPU and memory recommendations for each workload, inside Headlamp.
+license: Apache-2.0
+homeURL: https://github.com/getzoorik/headlamp
+keywords:
+  - kubernetes
+  - cost-optimization
+  - resource-recommendations
+  - coral
+  - zoorik
+links:
+  - name: Source
+    url: https://github.com/getzoorik/headlamp/tree/main/coral
+  - name: Coral
+    url: https://zoorik.com/coral
+maintainers:
+  - name: Zoorik
+    email: founders@zoorik.com
+provider:
+  name: Zoorik
+annotations:
+  headlamp/plugin/archive-url: "https://github.com/getzoorik/headlamp/releases/download/coral-v0.1.0/coral-0.1.0.tar.gz"
+  headlamp/plugin/archive-checksum: "sha256:14545a59568475081d7311bbc43fd0ad446da7389fef4c9d0f9b2d3a482316c4"
+  headlamp/plugin/version-compat: ">=0.46.0"
+  headlamp/plugin/distro-compat: "in-cluster,web,app"
