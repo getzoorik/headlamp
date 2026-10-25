@@ -4,6 +4,8 @@
 
 # Zoorik's plugins for Headlamp
 
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/zoorik-headlamp)](https://artifacthub.io/packages/search?repo=zoorik-headlamp)
+
 Plugins for [Headlamp](https://headlamp.dev), the Kubernetes web UI, from Zoorik. This repository holds
 plugins, not Headlamp itself.
 
